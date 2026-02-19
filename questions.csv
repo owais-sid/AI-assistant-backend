@@ -1,0 +1,8 @@
+id,question,questiontypeid,options
+1,Have you experienced or witnessed any form of discrimination at work?,3,"yes, no"
+2,Are company policies on human rights clearly communicated?,3,"always,often,sometimes,rarely"
+3,Are you satisfied with your current role?,3,"highly satisfied, satisfied, not satisfied"
+4,Do you clearly understand your job responsibilities?,3,"yes, no"
+5,Are you satisfied with your work-life balance?,3,"yes, no"
+6,Do you feel respected and valued in your workplace,3,"strongly agree, agree, neutral, disagree, strongly disagree"
+7,Which of the following skills best describe your area of expertise?,4,"communication, technical, creativity, problem solving. Other"
